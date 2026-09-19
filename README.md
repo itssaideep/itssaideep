@@ -13,10 +13,15 @@ I'm a Computer Science master's student at **Blekinge Institute of Technology (B
 My work explores how intelligent systems can spot threats, make smart decisions when the answer isn’t obvious, and stay resilient when resources are limited and environments get messy. I enjoy turning machine-learning ideas into practical testbeds where algorithms meet real embedded devices, unpredictable networks, and production-style infrastructure—because research is more fun when it has blinking LEDs and occasional debugging adventures.
 
 -🎓 MSc Computer Science student at BTH — training my brain to debug both code and reality. Expected graduation: June 2027
+
 -🔐 Exploring adaptive cyber defense, intrusion detection, and systems that refuse to give up
+
 -🤖 Teaching machines to make better decisions with Bayesian reasoning, reinforcement learning, and agent-based simulations
+
 -🌐 Building IoT systems that communicate intelligently—even when bandwidth is having a bad day
+
 -🛠️ Happiest somewhere between Python, embedded hardware, Linux terminals, containers, and dashboards full of suspicious-looking graphs
+
 -🏆 2nd place at the European Defense Tech Hackathon with Team Sunrisers — apparently our ideas survived both the judges and the deadline 🚀
 
 ## Research interests
