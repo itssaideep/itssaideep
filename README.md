@@ -26,6 +26,10 @@ I build practical software and prototypes around **AI, data analysis, cybersecur
 - **Software Project Intern, Skyway Networks** — contributed to an employee-management application through feature development, debugging, requirements work, and testing.
 - **Technical Project Intern, WhiteNoise Academy** — developed an embedded communications prototype using ESP32/M5Stack devices, LoRa, Meshtastic, and external modules.
 
+## Recognition
+
+- **2nd place, European Defense Tech Hackathon — Team Sunrisers (May 2026):** developed a geospatial decision-support system for interceptor debris safety-zone evaluation.
+
 ## Beyond the screen
 
 I’m an automotive enthusiast and a gaming enthusiast. Both keep me curious about how complex systems behave, how people interact with them, and how thoughtful engineering can make the experience better.
